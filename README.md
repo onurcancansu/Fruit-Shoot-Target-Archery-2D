@@ -12,12 +12,14 @@ Get the Highest Score: Aim for the highest score by shooting as many fruits as p
 Easy to Play, Hard to Master: The game has simple controls that are easy to pick up, but it requires skill and precision to achieve mastery.
 Free to Play: Fruit Shoot: Target Archery 2D is available for free, allowing everyone to enjoy the game without any cost.
 No Internet Connection Required: Play the game offline without the need for an internet connection.
+
 **Installation**
 Clone or download the game repository to your local machine.
 Ensure you have Unity 2D installed on your computer.
 Open the project in Unity 2D by selecting the project folder.
 Once the project is open, navigate to the main scene.
 Press the play button in the Unity editor to start playing the game.
+
 **Usage**
 Controls: Use the mouse to aim the bow and adjust the shooting angle. Left-click to shoot an arrow.
 Shoot Fruits, Dodge Bombs: Aim carefully and shoot as many fruits as you can while avoiding the bombs. Each fruit hit will earn you points, while hitting a bomb will deduct points.
